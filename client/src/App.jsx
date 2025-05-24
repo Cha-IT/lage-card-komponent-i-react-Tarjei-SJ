@@ -1,12 +1,10 @@
 import { useState } from 'react'
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
-import './App.css'
+import{BrowserRouter as Router, Routes, Route} from 'react-router-dom'
 import Index from './index.jsx'
 import About from './about.jsx'
 import Oppskrifter from './oppskrifter.jsx'
 import Oppskrift from './oppskrift.jsx'
-
-
+import './App.css'
 
 function App() {
   const [count, setCount] = useState(0)

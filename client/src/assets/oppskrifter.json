@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1,
+    "navn": "Spaghetti Bolognese",
+    "beskrivelse": "En klassisk italiensk pastarett med kjøttsaus.",
+    "ingredienser": [
+      "400g kjøttdeig",
+      "1 løk",
+      "2 fedd hvitløk",
+      "400g hakkede tomater",
+      "2 ss tomatpuré",
+      "Spaghetti",
+      "Salt og pepper"
+    ],
+    "fremgangsmate": ["Stek kjøttdeigen. Tilsett hakket løk og hvitløk. Rør inn tomatpuré og tomater. La småkoke i 20 minutter. Kok spaghetti og server med sausen."]
+  },
+  {
+    "id": 2,
+    "navn": "Taco",
+    "beskrivelse": "En meksikansk favoritt med kjøtt og friske grønnsaker i lefser.",
+    "ingredienser": [
+      "400g kjøttdeig",
+      "1 pose tacokrydder",
+      "Tortillalefser",
+      "Salat",
+      "Tomat",
+      "Mais",
+      "Ost",
+      "Rømme"
+    ],
+    "fremgangsmate":[ "Stek kjøttdeigen og bland inn tacokrydder. Varm lefsene og fyll med kjøtt og ønsket tilbehør."]
+  },
+  {
+    "id": 3,
+    "navn": "Pannekaker",
+    "beskrivelse": "Tynne og deilige pannekaker som passer både til middag og dessert.",
+    "ingredienser": [
+      "4 dl melk",
+      "2 egg",
+      "2,5 dl hvetemel",
+      "1/2 ts salt",
+      "Smør til steking"
+    ],
+    "fremgangsmate": ["Visp sammen ingrediensene. La røren hvile i 20 minutter. Stek i panne med litt smør."]
+  },
+  {
+    "id": 4,
+    "navn": "Kyllingsalat",
+    "beskrivelse": "En frisk og lett salat med stekt kylling og grønnsaker.",
+    "ingredienser": [
+      "2 kyllingfileter",
+      "Salatblanding",
+      "Cherrytomater",
+      "Agurk",
+      "Fetaost",
+      "Olivenolje"
+    ],
+    "fremgangsmate": ["Stek kyllingen og skjær i biter. Bland sammen med grønnsaker og drypp over olivenolje."]
+  },
+  {
+    "id": 5,
+    "navn": "Lasagne",
+    "beskrivelse": "En ovnsbakt pastarett med lag av kjøttsaus, hvit saus og ost.",
+    "ingredienser": [
+      "400g kjøttdeig",
+      "1 løk",
+      "Hvit saus",
+      "Tomatsaus",
+      "Lasagneplater",
+      "Revet ost"
+    ],
+    "fremgangsmate":[ "Stek kjøtt og løk. Lag tomatsaus. Legg lagvis med saus, plater og hvit saus. Topp med ost og stek i ovn på 200°C i 30–40 min."]
+  },
+  {
+    "id": 6,
+    "navn": "Havregrøt",
+    "beskrivelse": "En enkel og sunn frokost som metter godt.",
+    "ingredienser": [
+      "2 dl havregryn",
+      "4 dl melk eller vann",
+      "1/4 ts salt"
+    ],
+    "fremgangsmate": ["Kok opp alle ingredienser under omrøring til ønsket konsistens. Server med frukt eller bær."]
+  },
+  {
+    "id": 7,
+    "navn": "Fiskekaker med poteter",
+    "beskrivelse": "En klassisk norsk middag med enkle ingredienser.",
+    "ingredienser": [
+      "Fiskekaker",
+      "Poteter",
+      "Gulrøtter",
+      "Smør",
+      "Persille"
+    ],
+    "fremgangsmate":[ "Kok poteter og gulrøtter. Stek fiskekakene. Server med smør og persille på toppen."]
+  },
+  {
+    "id": 8,
+    "navn": "Tomatsuppe",
+    "beskrivelse": "En varm og smakfull suppe som er lett å lage.",
+    "ingredienser": [
+      "1 boks hakkede tomater",
+      "1 løk",
+      "2 fedd hvitløk",
+      "2 ss tomatpuré",
+      "5 dl vann",
+      "Buljongterning",
+      "Salt og pepper"
+    ],
+    "fremgangsmate":[ "Fres løk og hvitløk. Tilsett tomater, tomatpuré, vann og buljong. Kok i 15 minutter. Kjør glatt med stavmikser."]
+  },
+  {
+    "id": 9,
+    "navn": "Omelett",
+    "beskrivelse": "En enkel og rask rett med egg og valgfritt fyll.",
+    "ingredienser": [
+      "3 egg",
+      "2 ss melk",
+      "Skinke",
+      "Ost",
+      "Salt og pepper"
+    ],
+    "fremgangsmate": ["Visp egg og melk. Hell i panne og stek på svak varme. Legg på fyll og brett sammen."]
+  },
+  {
+    "id": 10,
+    "navn": "Risgrøt",
+    "beskrivelse": "Tradisjonell norsk grøt som passer godt på kalde dager.",
+    "ingredienser": [
+      "2 dl grøtris",
+      "5 dl vann",
+      "1 liter melk",
+      "1/2 ts salt"
+    ],
+    "fremgangsmate": ["Kok ris i vann i 10 min. Tilsett melk og la småkoke under omrøring i 45 minutter. Smak til med salt."]
+  }
+]
