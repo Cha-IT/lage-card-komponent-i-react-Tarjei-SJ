@@ -1,0 +1,26 @@
+.nav-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    background-color: #f8ce80;
+    border-bottom: 2px solid #ffcc8f;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+li {
+    padding: 0.5em 1em;
+}
+
+li a {
+    text-decoration: none;
+    color: #8b4513;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+li a:hover {
+    color: #d2691e;
+}
