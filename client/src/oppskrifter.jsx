@@ -2,6 +2,7 @@ import oppskrifter from "./assets/oppskrifter.json";
 import Header from "./header.jsx";
 import Nav from "./nav.jsx";
 import Card from "./card.jsx";
+import Footer from './footer';
 
 function Oppskrifter() {
   return (
@@ -18,6 +19,7 @@ function Oppskrifter() {
           />
         ))}
       </div>
+      <Footer />
     </>
   );
 }

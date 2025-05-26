@@ -9,7 +9,7 @@ function Nav(){
             <ul className="nav-list">
                 <li><Link to="/">Home</Link></li>
                 <li><Link to="/oppskrifter">Oppskrifter</Link></li>
-                <li><Link to="/about">About</Link></li>
+                <li><Link to="/about">Om oss</Link></li>
             </ul>
         </nav>
         </>

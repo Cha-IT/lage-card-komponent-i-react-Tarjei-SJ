@@ -2,6 +2,7 @@ import { useParams } from 'react-router-dom';
 import Nav from './nav';
 import Header from './header';
 import oppskrifter from './assets/oppskrifter.json';
+import Footer from './footer';
 
 function Oppskrift(){
     const { id } = useParams();
@@ -29,6 +30,7 @@ function Oppskrift(){
                     <li key={index}>{trinn}</li>
                 ))}
             </ol>
+            <Footer/>
         </>
     )
 }
